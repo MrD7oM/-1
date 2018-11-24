@@ -1,0 +1,3 @@
+node bottt.js
+
+pause
